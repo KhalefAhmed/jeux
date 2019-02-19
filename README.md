@@ -1,4 +1,4 @@
 # jeux
 
 <h1>Runs the app<h1/>
-  <p>java -jar jeu.jar</p>
+  <h6>java -jar jeu.jar</h6>
